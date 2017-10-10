@@ -1,7 +1,40 @@
-<center><h1 style="magrin-bottom:500px;text-align:center;font-size:50px;">这个是安卓疯狂讲义</h1></center>
-<center><h2 style="magrin-bottom:500px;text-align:center;font-size:30px;">以章为章，以实例为小节</h2></center>
+<center><h1 style="magrin:0px;text-align:center;font-size:20px;">
+这个是存储地址
+</h1></center>
 
-<center><h6 style="magrin:0px;text-align:center;font-size:12px;">2017年9月</center>
+|Header 1|Header 2|Header 3|
+|-|-|-|
+|1|2|3|
+|1|2|3|
+|1|2|3|
 
+### 表格
+| Item      |    Value | Qty  |
+| :-------- | --------:| :--: |
+| Computer  | 1600 USD |  5   |
+| Phone     |   12 USD |  12  |
+| Pipe      |    1 USD | 234  |
 
-<left><h6 style="magrin:0px;text-align:left;font-size:12px;">D:\书籍\Android疯狂讲义\codes</left>
+<table>
+<thead>
+<tr>
+    <th>快捷键按钮</th>
+    <th>作用</th>
+    <th>快捷键按钮</th>
+    <th>作用</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+    <td colspan="4" style="text-align: center"> Java SE 编程的快捷键 </td>
+</tr>
+<tr>
+    <td> psvm tab 生成主方法的快捷键  </td>
+    <td> sout tab 快速输出的快捷键 </td>
+    <td> </td>
+    <td>  </td>
+</tr>
+</tbody>
+</table>
+

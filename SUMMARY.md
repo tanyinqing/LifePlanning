@@ -1,6 +1,13 @@
 # Summary
 
 * [引言](README.md)
+* [新笔记本](README.md)
+   * [idea的设置](新笔记本/idea的设置.md)
+   * [javaJDK的安装](新笔记本/javaJDK的安装.md)
+   * [MarkdownPad注册码](新笔记本/MarkdownPad注册码.md)
+   * [studio初始化](新笔记本/studio初始化.md)
+   * [win7左下角的显示桌面图标](新笔记本/win7左下角的显示桌面图标.md)
+   * [删除说玩游戏中心淘宝快捷方式](新笔记本/删除说玩游戏中心淘宝快捷方式.md)
 * [饮食](饮食/README.md)
    * [家常菜做法](饮食/家常菜做法.md)
 * [富人的思维](富人的思维/README.md)
@@ -11,6 +18,7 @@
    * [汇丰商学院NBA报考条件](影视作品/汇丰商学院NBA报考条件.md)
 * [才艺](才艺/README.md)
    * [舞蹈](才艺/舞蹈.md)
+* [健康维护](其他/README.md)
 * [其他](其他/README.md)
    * [html格式](其他/html格式.md)
    * [健康探索](其他/健康探索.md)
